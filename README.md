@@ -18,7 +18,7 @@
 ---
 
 
-![David Braga's GitHub stats](https://github-readme-stats.vercel.app/api?username=David-Braga878&show_icons=true&theme=radical)
+![David Braga ](https://github-readme-stats.vercel.app/api?username=David-Braga878&show_icons=true&theme=radical)
 
 
 ## 🔄 Contribuições Recentes
