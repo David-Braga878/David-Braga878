@@ -1,4 +1,4 @@
-## 👋 Olá, seja bem-vindo(a) ao meu perfil!
+## 👋 Olá, sou David Braga!
 
 🎓 **Formado em Sistemas de Informação**  
 📱 **Criador de conteúdo de tecnologia no [@mundotechbox](https://instagram.com/mundotechbox)**  
