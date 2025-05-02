@@ -18,10 +18,6 @@ jobs:
         with:
           github_user_name: David-Braga878
           outputs: dist/github-contribution-grid-snake.svg
-          color_snake: '#40E0D0'
-          color_dots: '#C0C0C0,#D8BFD8,#E6E6FA,#FFF0F5,#FFFFFF'
-          pixel_size: 12
-          motion_speed: 1
 
       - name: Push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v4
