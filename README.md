@@ -4,6 +4,12 @@
 📱 Criador de conteúdo de tecnologia no [@mundotechbox](https://instagram.com/mundotechbox)  
 💻 Compartilho projetos, tutoriais e aprendizados no GitHub
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=David-Braga878&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-Braga878&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+
 ---
 
 ### 📈 Contribuições recentes:
