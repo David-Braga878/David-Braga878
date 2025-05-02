@@ -17,11 +17,11 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: David-Braga878
-          svg_out_path: dist/github-contribution-grid-snake.svg
-          color_snake: '#40E0D0'            # Azul turquesa
-          color_dots: '#C0C0C0,#D8BFD8,#E6E6FA,#FFF0F5,#FFFFFF' # Gradiente sutil nos pontos
-          pixel_size: 12                    # Grade mais visível
-          motion_speed: 1                   # Velocidade padrão (pode ajustar entre 0.1 a 5)
+          outputs: dist/github-contribution-grid-snake.svg
+          color_snake: '#40E0D0'
+          color_dots: '#C0C0C0,#D8BFD8,#E6E6FA,#FFF0F5,#FFFFFF'
+          pixel_size: 12
+          motion_speed: 1
 
       - name: Push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v4
