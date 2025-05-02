@@ -26,5 +26,4 @@
 ## 📫 Como me encontrar
 
 [![Instagram](https://img.shields.io/badge/-@mundotechbox-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mundotechbox)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario-linkedin/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
