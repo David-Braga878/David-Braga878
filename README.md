@@ -19,7 +19,7 @@
 
 ## 🔄 Contribuições Recentes
 
-![Snake animation](https://raw.githubusercontent.com/David-Braga878/David-Braga878/output/github-contribution-grid-snake.svg?color_snake=#AA00FF&color_dots=1c1c1c,2a2a2a,333333,3d3d3d,4a4a4a&pixel_size=12&motion_speed=1)
+![Snake animation](https://raw.githubusercontent.com/David-Braga878/David-Braga878/output/github-contribution-grid-snake.svg?color_snake=%23AA00FF&color_dots=1c1c1c,2a2a2a,333333,3d3d3d,4a4a4a&pixel_size=12&motion_speed=1)
 
 ---
 
