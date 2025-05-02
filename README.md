@@ -29,6 +29,6 @@
 
 ## 📫 Como me encontrar
 
-[![Instagram](https://img.shields.io/badge/-@mundotechbox-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davidbraga878?igsh=b25nbGJoYjVqMGlo&utm_source=qr)
+[![Instagram](https://img.shields.io/badge/-@davidbraga878-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davidbraga878?igsh=b25nbGJoYjVqMGlo&utm_source=qr)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:123braga.chaves@gmail.com)
 
