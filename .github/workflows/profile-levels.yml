@@ -1,0 +1,17 @@
+name: Profile Levels
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Roda todo dia à meia-noite UTC
+  workflow_dispatch:
+
+jobs:
+  update-levels:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Update profile levels
+        uses: github/level-up@v1
+        with:
+          config-path: .github/profile-levels.yml
