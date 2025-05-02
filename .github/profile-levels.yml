@@ -1,0 +1,10 @@
+# profile-levels config
+name: David_Braga
+base_xp: 100
+level_multiplier: 1.5
+activities:
+  commits: true
+  issues: false
+  pull_requests: false
+  repositories: true
+"Add profile-levels config"
