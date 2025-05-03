@@ -1,7 +1,7 @@
 ## 👋 Olá, sou David Braga!
 
 🎓 **Formado em Sistemas de Informação**  
-📱 **Criador de conteúdo de tecnologia no [@mundotehbox](:https://www.instagram.com/mundotecbox?igsh=bTdndnVkejI4ZnY2&utm_source=qr)**  
+📱 **Criador de conteúdo de tecnologia no [@mundotehbox](https://www.instagram.com/mundotecbox?igsh=bTdndnVkejI4ZnY2&utm_source=qr)**  
 💻 **Compartilho projetos, tutoriais e aprendizados sobre desenvolvimento e tecnologia no GitHub**
 
 ---
