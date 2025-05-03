@@ -2,6 +2,7 @@
 
 🎓 **Formado em Sistemas de Informação**  
 📱 **Criador de conteúdo de tecnologia no [@mundotehbox](https://www.instagram.com/mundotecbox?igsh=bTdndnVkejI4ZnY2&utm_source=qr)**  
+🎥 **Conteúdo também no [YouTube - DavidBragaTec](https://www.youtube.com/@DavidBragaTec)** 
 💻 **Compartilho projetos, tutoriais e aprendizados sobre desenvolvimento e tecnologia no GitHub**
 
 ---
