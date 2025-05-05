@@ -1,35 +1,85 @@
-## 👋 Olá, sou David Braga!
+<div align="center">
+  <samp>
+    <b>Desenvolvedor Full Stack</b>
+    <br>
+    Hi there! I'm David Braga
+  </samp>
+</div>
 
-🎓 **Formado em Sistemas de Informação**  
-📱 **Criador de conteúdo de tecnologia no [@mundotehbox](https://www.instagram.com/mundotecbox?igsh=bTdndnVkejI4ZnY2&utm_source=qr)**  
-🎥 **Conteúdo também no [YouTube - DavidBragaTec](https://www.youtube.com/@DavidBragaTec/shorts)**<br>
-💻 **Compartilho projetos, tutoriais e aprendizados sobre desenvolvimento e tecnologia no GitHub**
+  <br>
+  <br>
 
----
+<div align="center">
+  <p align="center">
+    <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FDavid-Braga878&s=21&c=bf91f3&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" />
+  </p> 
+</div>
 
-## 🚀 Tecnologias & Ferramentas
+  <br>
+  <br>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
+<div align="center">
+  <img
+    height=165
+    align="center"
+    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api/?username=David-Braga878&show_icons=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight&font=Iosevka"
+  />
+  <img
+    height=165
+    align="center"
+    alt="Top Language"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-Braga878&layout=compact&hide_border=true&font=Iosevka&langs_count=16&theme=tokyonight"
+  />
+  <br>
+  <br>
+  <img
+    align="center"
+    alt="Top Language"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=David-Braga878&theme=tokyonight"
+  />
+  <br>
+  <br>
+  <img
+    height=154
+    align="center"
+    alt="Top Language"
+    src="https://github-readme-streak-stats.herokuapp.com?user=David-Braga878&theme=tokyonight&hide_border=true&card_width=885"
+  />
+  </div>
 
----
+<div align="center" style="display: inline_block"><br>
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bootstrap.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Arduino.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Photoshop.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" />
+  
+</div>
+
+<br>
+
+##
+
+<div align="center">
+  <samp>
+    <b>
+      Contact me:
+    </b>
+  </samp>
+  <br>
+  <br>
+
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mundotecbox/?next=%2F)
+  [![YouTube](https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DavidBragaTec)
 
 
-![David Braga ](https://github-readme-stats.vercel.app/api?username=David-Braga878&show_icons=true&theme=radical)
+<br>
+<br>
 
-
-## 🔄 Contribuições Recentes
-
-![Snake animation](https://raw.githubusercontent.com/David-Braga878/David-Braga878/output/github-contribution-grid-snake.svg?color_snake=%23AA00FF&color_dots=1c1c1c,2a2a2a,333333,3d3d3d,4a4a4a&pixel_size=12&motion_speed=1)
-
----
-
-## 📫 Como me encontrar
-
-[![Instagram](https://img.shields.io/badge/-@davidbraga878-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davidbraga878?igsh=b25nbGJoYjVqMGlo&utm_source=qr)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:123braga.chaves@gmail.com)
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6fa3fa&height=100&section=footer"/>
