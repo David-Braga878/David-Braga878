@@ -30,14 +30,13 @@
 
 <br><br>
 
-<div align="center">
+<p align="center">
   <img
     height="154"
-    align="center"
     alt="GitHub Streak"
     src="https://github-readme-streak-stats.herokuapp.com/?user=David-Braga878&theme=tokyonight&hide_border=true&card_width=885"
   />
-</div>
+</p>
 
 
 <br><br>
