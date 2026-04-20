@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👨‍💻 David Braga</h1>
+  <h1> David Braga</h1>
   <p>Desenvolvedor Full Stack</p>
   <p>Construindo sistemas, APIs e soluções reais</p>
 </div>
