@@ -1,149 +1,37 @@
-<!-- ===================================================== -->
-<!-- HEADER -->
-<!-- ===================================================== -->
-
 <div align="center">
 
 # David Braga
 
-### Full Stack Developer • Software Engineer
+### Full Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=4000&pause=1200&color=70A5FD&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Building+Enterprise+Systems;React+%7C+Node.js+%7C+Supabase;Always+Learning+Something+New" />
+Building modern web applications and enterprise management systems.
+
+<img src="https://komarev.com/ghpvc/?username=David-Braga878&label=Profile%20Views&color=70A5FD&style=flat" />
 
 </div>
 
 ---
 
+## 🚀 Tech Stack
+
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=David-Braga878&label=Profile+Views&color=70A5FD&style=flat"/>
+<img src="https://skillicons.dev/icons?i=react,js,nodejs,express,supabase,postgres,mysql,tailwind,vite,python,git,github,vscode,docker,figma,linux&theme=dark&perline=8"/>
 
 </div>
 
-<br>
+---
+
+## 💼 Featured Projects
 
 <div align="center">
 
-<a href="https://www.instagram.com/mundotecbox">
-<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://github.com/David-Braga878">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=David-Braga878&repo=SEU_REPOSITORIO_1&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/David-Braga878">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# `> about_me.ts`
-
-```typescript
-const david = {
-
-    name: "David Braga",
-
-    location: "Pará, Brasil 🇧🇷",
-
-    role: "Full Stack Developer",
-
-    currentFocus: [
-
-        "Enterprise Systems",
-
-        "Laboratory Management",
-
-        "Fleet Management",
-
-        "Inventory Systems",
-
-        "WhatsApp Automations"
-
-    ],
-
-    frontend: [
-
-        "React",
-
-        "JavaScript",
-
-        "Tailwind CSS",
-
-        "HTML",
-
-        "CSS"
-
-    ],
-
-    backend: [
-
-        "Node.js",
-
-        "Express",
-
-        "Supabase"
-
-    ],
-
-    database: [
-
-        "PostgreSQL",
-
-        "MySQL"
-
-    ],
-
-    tools: [
-
-        "Git",
-
-        "GitHub",
-
-        "Docker",
-
-        "VS Code",
-
-        "Figma"
-
-    ],
-
-    currentlyLearning: [
-
-        "TypeScript",
-
-        "Next.js",
-
-        "Cloud"
-
-    ],
-
-    motto: "Building software that solves real business problems."
-
-}
-```
-
----
-
-# `> tech_stack`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,js,nodejs,express,supabase,postgres,mysql,tailwind,vite,python,git,github,vscode,figma,docker,linux,html,css,sass&theme=dark&perline=10"/>
-
-</div>
-
----
-
-# `> featured_projects`
-
-<div align="center">
-
-<a href="https://github.com/David-Braga878/SEU_REPOSITORIO_LABORATORIO">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=David-Braga878&repo=SEU_REPOSITORIO_LABORATORIO&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/David-Braga878/SEU_REPOSITORIO_FROTA">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=David-Braga878&repo=SEU_REPOSITORIO_FROTA&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=David-Braga878&repo=SEU_REPOSITORIO_2&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
@@ -152,12 +40,12 @@ const david = {
 
 <div align="center">
 
-<a href="https://github.com/David-Braga878/SEU_REPOSITORIO_ESTOQUE">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=David-Braga878&repo=SEU_REPOSITORIO_ESTOQUE&theme=tokyonight"/>
+<a href="https://github.com/David-Braga878">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=David-Braga878&repo=SEU_REPOSITORIO_3&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/David-Braga878/SEU_REPOSITORIO_WHATSAPP">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=David-Braga878&repo=SEU_REPOSITORIO_WHATSAPP&theme=tokyonight"/>
+<a href="https://github.com/David-Braga878">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=David-Braga878&repo=SEU_REPOSITORIO_4&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
@@ -165,18 +53,16 @@ const david = {
 <br>
 
 <a href="https://github.com/David-Braga878?tab=repositories">
-
-<img src="https://img.shields.io/badge/All%20Repositories-000000?style=for-the-badge&logo=github"/>
-
+<img src="https://img.shields.io/badge/All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 ---
 
-# `> github_stats`
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=David-Braga878&show_icons=true&count_private=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=David-Braga878&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-Braga878&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -192,7 +78,7 @@ const david = {
 
 ---
 
-# `> contributions`
+## 📈 Contribution Graph
 
 <div align="center">
 
@@ -202,94 +88,16 @@ const david = {
 
 ---
 
-# `> current_focus`
-
-```yaml
-Currently Working On:
-
-  • Laboratory Management System
-
-  • Fleet Management Platform
-
-  • Inventory Management
-
-  • Enterprise Dashboards
-
-Learning:
-
-  • TypeScript
-
-  • Next.js
-
-  • Clean Architecture
-
-Goals:
-
-  • SaaS Development
-
-  • Enterprise Software
-
-  • Cloud Infrastructure
-```
-
----
-
-# `> technologies`
-
-```text
-Frontend
-──────────────
-
-React
-JavaScript
-Tailwind CSS
-
-Backend
-──────────────
-
-Node.js
-Express
-Supabase
-
-Database
-──────────────
-
-PostgreSQL
-MySQL
-
-Tools
-──────────────
-
-Git
-GitHub
-Docker
-VS Code
-Linux
-Figma
-```
-
----
-
-# `> contact`
+## 📫 Contact
 
 <div align="center">
 
-<a href="https://www.instagram.com/mundotecbox">
-
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-
-</a>
-
-<a href="mailto:SEUEMAIL">
-
-<img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-</a>
-
 <a href="https://github.com/David-Braga878">
-
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
+<a href="https://www.instagram.com/mundotecbox">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
