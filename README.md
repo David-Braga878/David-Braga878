@@ -1,85 +1,73 @@
+<!-- =========================================================
+     HEADER
+========================================================= -->
+
 <div align="center">
 
-# David Braga
+# 👋 David Braga
 
 ### Full Stack Developer
 
-Building modern web applications, management systems and scalable solutions.
+**Building modern web applications, enterprise systems and digital solutions.**
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=David-Braga878&label=Profile%20Views&color=70A5FD&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=David-Braga878&label=PROFILE%20VIEWS&color=70A5FD&style=for-the-badge" />
 
 </div>
 
----
-
-## 👨‍💻 About Me
-
-I'm a **Full Stack Developer** focused on building modern web applications and
-business management systems.
-
-I work mainly with **JavaScript, React, Node.js, Supabase and PostgreSQL**,
-developing solutions from the user interface to the database and application
-logic.
-
-I'm particularly interested in:
-
-- 🏢 Enterprise Management Systems
-- ⚛️ Modern Web Applications
-- 🗄️ Database Architecture
-- 🔐 Authentication and Access Control
-- 📊 Dashboards and Data Management
-- 🚀 Application Performance
-- ☁️ Cloud-based Solutions
+<br>
 
 ---
 
-## 🎯 Current Focus
+<!-- =========================================================
+     ABOUT ME
+========================================================= -->
 
-Currently working on projects involving:
+## `> about_me`
 
-- 🧪 Laboratory Management Systems
-- 🚗 Fleet Management Platforms
-- 📦 Inventory Management
-- 📊 Enterprise Dashboards
-- 🔐 Authentication and User Management
-- 📝 Digital Forms and Workflow Systems
+```javascript
+const davidBraga = {
+    role: "Full Stack Developer",
 
----
+    focus: [
+        "Web Applications",
+        "Enterprise Management Systems",
+        "Database Solutions",
+        "Business Automation"
+    ],
 
-## 🛠️ Tech Stack
+    frontend: [
+        "React",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Tailwind CSS"
+    ],
 
-<div align="center">
+    backend: [
+        "Node.js",
+        "Express",
+        "Supabase"
+    ],
 
-<img src="https://skillicons.dev/icons?i=react,js,nodejs,express,supabase,postgres,mysql,tailwind,vite,python,git,github,vscode,docker,figma,linux&theme=dark&perline=8"/>
+    databases: [
+        "PostgreSQL",
+        "MySQL"
+    ],
 
-</div>
+    tools: [
+        "Git",
+        "GitHub",
+        "Docker",
+        "Figma",
+        "VS Code",
+        "Linux"
+    ],
 
----
-
-## 💻 Development
-
-```text
-Frontend
-├── React
-├── JavaScript
-├── Tailwind CSS
-└── Vite
-
-Backend
-├── Node.js
-├── Express
-└── Supabase
-
-Database
-├── PostgreSQL
-└── MySQL
-
-Tools
-├── Git
-├── GitHub
-├── VS Code
-├── Docker
-├── Figma
-└── Linux
+    currentlyLearning: [
+        "TypeScript",
+        "Next.js",
+        "Software Architecture"
+    ]
+};
