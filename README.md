@@ -4,7 +4,9 @@
 
 ### Full Stack Developer
 
-Building modern web applications and enterprise management systems.
+Building modern web applications, management systems and scalable solutions.
+
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=David-Braga878&label=Profile%20Views&color=70A5FD&style=flat" />
 
@@ -12,7 +14,41 @@ Building modern web applications and enterprise management systems.
 
 ---
 
-## 🚀 Tech Stack
+## 👨‍💻 About Me
+
+I'm a **Full Stack Developer** focused on building modern web applications and
+business management systems.
+
+I work mainly with **JavaScript, React, Node.js, Supabase and PostgreSQL**,
+developing solutions from the user interface to the database and application
+logic.
+
+I'm particularly interested in:
+
+- 🏢 Enterprise Management Systems
+- ⚛️ Modern Web Applications
+- 🗄️ Database Architecture
+- 🔐 Authentication and Access Control
+- 📊 Dashboards and Data Management
+- 🚀 Application Performance
+- ☁️ Cloud-based Solutions
+
+---
+
+## 🎯 Current Focus
+
+Currently working on projects involving:
+
+- 🧪 Laboratory Management Systems
+- 🚗 Fleet Management Platforms
+- 📦 Inventory Management
+- 📊 Enterprise Dashboards
+- 🔐 Authentication and User Management
+- 📝 Digital Forms and Workflow Systems
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -21,30 +57,29 @@ Building modern web applications and enterprise management systems.
 </div>
 
 ---
-## 📈 Contribution Graph
 
-<div align="center">
+## 💻 Development
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=David-Braga878&theme=tokyo-night&hide_border=true&area=true"/>
+```text
+Frontend
+├── React
+├── JavaScript
+├── Tailwind CSS
+└── Vite
 
-</div>
+Backend
+├── Node.js
+├── Express
+└── Supabase
 
----
+Database
+├── PostgreSQL
+└── MySQL
 
-## 📫 Contact
-
-<div align="center">
-
-<a href="https://github.com/David-Braga878">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/mundotecbox">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=70A5FD&section=footer"/>
+Tools
+├── Git
+├── GitHub
+├── VS Code
+├── Docker
+├── Figma
+└── Linux
