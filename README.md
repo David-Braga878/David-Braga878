@@ -99,7 +99,8 @@ src="https://streak-stats.demolab.com?user=David-Braga878&theme=dark&hide_border
 
 <img
 width="95%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=David-Braga878&custom_title=David%20Braga%20-%20GitHub%20Contributions&bg_color=0D1117&color=FFFFFF&line=70A5FD&point=FFFFFF&area_color=70A5FD&area=true&hide_border=true"
+src="./assets/github-contribution-grid-snake-dark.svg"
+alt="GitHub Contribution Snake"
 />
 
 </div>
@@ -164,5 +165,4 @@ src="https://github-readme-stats.vercel.app/api/pin/?username=David-Braga878&rep
 
 <img
 width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=70A5FD"
-/>
+src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=70A5FD"/>
