@@ -99,7 +99,7 @@ src="https://streak-stats.demolab.com?user=David-Braga878&theme=dark&hide_border
 
 <img
 width="95%"
-src="./assets/github-contribution-grid-snake-dark.svg"
+src="https://raw.githubusercontent.com/David-Braga878/David-Braga878/output/github-contribution-grid-snake.svg"
 alt="GitHub Contribution Snake"
 />
 
